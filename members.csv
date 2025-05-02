@@ -1,4 +1,32 @@
 name,std_id,year,contact_number,email,department,gender,designation
-Pralad Mishra,02220144,1,7774445678,02220144.cst@rub.edu.bt,Electronic and Communication,Male,Member
-Depashna Pradhan,02220145,2,7774556789,02220145.cst@rub.edu.bt,Mechanical,Male,Member
-
+Sonam Dorji,02220146,3,7774567890,02220146.cst@rub.edu.bt,Civil Engineering,Male,Member
+Tandin Wangmo,02220147,1,7774678901,02220147.cst@rub.edu.bt,Information Technology,Female,Member
+Kinley Tshering,02220148,2,7774789012,02220148.cst@rub.edu.bt,Electrical Engineering,Male,Member
+Pema Choden,02220149,4,7774890123,02220149.cst@rub.edu.bt,Electronic and Communication,Female,Member
+Ugyen Dorji,02220150,1,7774901234,02220150.cst@rub.edu.bt,Mechanical,Male,Member
+Choki Wangmo,02220151,2,7774012345,02220151.cst@rub.edu.bt,Civil Engineering,Female,Member
+Jigme Norbu,02220152,3,7774123456,02220152.cst@rub.edu.bt,Information Technology,Male,Member
+Karma Dema,02220153,4,7774234567,02220153.cst@rub.edu.bt,Electrical Engineering,Female,Member
+Tashi Tobgay,02220154,2,7774345678,02220154.cst@rub.edu.bt,Electronic and Communication,Male,Member
+Sonam Zangmo,02220155,1,7774456789,02220155.cst@rub.edu.bt,Mechanical,Female,Member
+Sangay Wangdi,02220156,2,7774567891,02220156.cst@rub.edu.bt,Civil Engineering,Male,Member
+Dechen Tshomo,02220157,3,7774678912,02220157.cst@rub.edu.bt,Information Technology,Female,Member
+Tshering Dorji,02220158,1,7774789123,02220158.cst@rub.edu.bt,Electrical Engineering,Male,Member
+Sonam Lhamo,02220159,4,7774891234,02220159.cst@rub.edu.bt,Electronic and Communication,Female,Member
+Tashi Wangchuk,02220160,3,7774902345,02220160.cst@rub.edu.bt,Mechanical,Male,Member
+Choden Zangmo,02220161,2,7774013456,02220161.cst@rub.edu.bt,Civil Engineering,Female,Member
+Lhendup Dorji,02220162,1,7774124567,02220162.cst@rub.edu.bt,Information Technology,Male,Member
+Pema Yangzom,02220163,3,7774235678,02220163.cst@rub.edu.bt,Electrical Engineering,Female,Member
+Wangdi Dorji,02220164,2,7774346789,02220164.cst@rub.edu.bt,Electronic and Communication,Male,Member
+Kezang Choden,02220165,1,7774457890,02220165.cst@rub.edu.bt,Mechanical,Female,Member
+Sangay Dema,02220166,3,7774568901,02220166.cst@rub.edu.bt,Civil Engineering,Female,Member
+Kinley Wangchuk,02220167,4,7774679012,02220167.cst@rub.edu.bt,Information Technology,Male,Member
+Pema Dorji,02220168,2,7774780123,02220168.cst@rub.edu.bt,Electrical Engineering,Male,Member
+Dechen Wangmo,02220169,1,7774891235,02220169.cst@rub.edu.bt,Electronic and Communication,Female,Member
+Jigme Choden,02220170,3,7774902346,02220170.cst@rub.edu.bt,Mechanical,Female,Member
+Ugyen Dema,02220171,2,7774013457,02220171.cst@rub.edu.bt,Civil Engineering,Female,Member
+Tandin Norbu,02220172,4,7774124568,02220172.cst@rub.edu.bt,Information Technology,Male,Member
+Pema Dema,02220173,1,7774235679,02220173.cst@rub.edu.bt,Electrical Engineering,Female,Member
+Tashi Dorji,02220174,3,7774346790,02220174.cst@rub.edu.bt,Electronic and Communication,Male,Member
+Sonam Dema,02220175,2,7774457891,02220175.cst@rub.edu.bt,Mechanical,Female,Member
+Wangmo Dorji,02220176,1,7774568902,02220176.cst@rub.edu.bt,Civil Engineering,Female,Member

@@ -18,6 +18,8 @@
 # misc
 .DS_Store
 *.pem
+.next
+.vscode
 
 # debug
 npm-debug.log*
@@ -26,8 +28,8 @@ yarn-error.log*
 
 # local env files
 ##Uploading for common database
-#.env*.local
-#.env
+.env*.local
+.env
 
 # vercel
 .vercel
